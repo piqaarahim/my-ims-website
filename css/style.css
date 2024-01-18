@@ -1,0 +1,83 @@
+h1 
+{
+    color:black
+}
+
+.menu
+{
+    background-color:tan;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+a 
+{
+ color:beige;
+ margin-left: 10px;
+ text-decoration: none;
+ font-family:'Josefin Sans', sans-serif;
+}
+
+.exp
+{
+font-family: 'Josefin Sans', sans-serif;
+ text-justify: inter-word;
+}
+
+
+.box1
+{
+    width:15%;
+    height:200px;
+    background-color:burlywood;
+    float:left;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.box2
+{
+    width: 25%;
+    height: 200px;
+    background-color:wheat;
+    float:left;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.box3
+{
+    width:15%;
+    height:200px;
+    background-color:burlywood;
+    float:left;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.box4
+{
+    width: 15%;
+    height: 200px;
+    background-color:wheat;
+    float:left;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.box5
+{
+    width:15%;
+    height:200px;
+    background-color:burlywood;
+    float:left;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.bio{
+text-align: center;
+
+
+}
